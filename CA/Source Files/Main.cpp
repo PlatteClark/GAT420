@@ -30,7 +30,7 @@ int main()
 	for (int i = 0; i < iterations; i++)
 	{
 		DisplayCellsRow(cells);
-		cells = ProcessCells(cells, rule110);
+		cells = ProcessCells(cells, rule184);
 	}
 }
 
